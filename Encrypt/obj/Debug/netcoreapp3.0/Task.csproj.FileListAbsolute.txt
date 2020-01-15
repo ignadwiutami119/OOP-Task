@@ -1,0 +1,11 @@
+D:\TRAININGC#\15Januari OOP\Task\bin\Debug\netcoreapp3.0\Task.exe
+D:\TRAININGC#\15Januari OOP\Task\bin\Debug\netcoreapp3.0\Task.deps.json
+D:\TRAININGC#\15Januari OOP\Task\bin\Debug\netcoreapp3.0\Task.runtimeconfig.json
+D:\TRAININGC#\15Januari OOP\Task\bin\Debug\netcoreapp3.0\Task.runtimeconfig.dev.json
+D:\TRAININGC#\15Januari OOP\Task\bin\Debug\netcoreapp3.0\Task.dll
+D:\TRAININGC#\15Januari OOP\Task\bin\Debug\netcoreapp3.0\Task.pdb
+D:\TRAININGC#\15Januari OOP\Task\obj\Debug\netcoreapp3.0\Task.csprojAssemblyReference.cache
+D:\TRAININGC#\15Januari OOP\Task\obj\Debug\netcoreapp3.0\Task.AssemblyInfoInputs.cache
+D:\TRAININGC#\15Januari OOP\Task\obj\Debug\netcoreapp3.0\Task.AssemblyInfo.cs
+D:\TRAININGC#\15Januari OOP\Task\obj\Debug\netcoreapp3.0\Task.dll
+D:\TRAININGC#\15Januari OOP\Task\obj\Debug\netcoreapp3.0\Task.pdb
