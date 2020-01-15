@@ -1,0 +1,11 @@
+D:\TRAININGC#\15Januari OOP\Task\Cipher\bin\Debug\netcoreapp3.0\Cipher.exe
+D:\TRAININGC#\15Januari OOP\Task\Cipher\bin\Debug\netcoreapp3.0\Cipher.deps.json
+D:\TRAININGC#\15Januari OOP\Task\Cipher\bin\Debug\netcoreapp3.0\Cipher.runtimeconfig.json
+D:\TRAININGC#\15Januari OOP\Task\Cipher\bin\Debug\netcoreapp3.0\Cipher.runtimeconfig.dev.json
+D:\TRAININGC#\15Januari OOP\Task\Cipher\bin\Debug\netcoreapp3.0\Cipher.dll
+D:\TRAININGC#\15Januari OOP\Task\Cipher\bin\Debug\netcoreapp3.0\Cipher.pdb
+D:\TRAININGC#\15Januari OOP\Task\Cipher\obj\Debug\netcoreapp3.0\Cipher.csprojAssemblyReference.cache
+D:\TRAININGC#\15Januari OOP\Task\Cipher\obj\Debug\netcoreapp3.0\Cipher.AssemblyInfoInputs.cache
+D:\TRAININGC#\15Januari OOP\Task\Cipher\obj\Debug\netcoreapp3.0\Cipher.AssemblyInfo.cs
+D:\TRAININGC#\15Januari OOP\Task\Cipher\obj\Debug\netcoreapp3.0\Cipher.dll
+D:\TRAININGC#\15Januari OOP\Task\Cipher\obj\Debug\netcoreapp3.0\Cipher.pdb
