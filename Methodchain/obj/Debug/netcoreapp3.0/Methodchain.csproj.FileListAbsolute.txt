@@ -1,0 +1,11 @@
+D:\TRAININGC#\15Januari OOP\Task\Methodchain\obj\Debug\netcoreapp3.0\Methodchain.csprojAssemblyReference.cache
+D:\TRAININGC#\15Januari OOP\Task\Methodchain\obj\Debug\netcoreapp3.0\Methodchain.AssemblyInfoInputs.cache
+D:\TRAININGC#\15Januari OOP\Task\Methodchain\obj\Debug\netcoreapp3.0\Methodchain.AssemblyInfo.cs
+D:\TRAININGC#\15Januari OOP\Task\Methodchain\bin\Debug\netcoreapp3.0\Methodchain.exe
+D:\TRAININGC#\15Januari OOP\Task\Methodchain\bin\Debug\netcoreapp3.0\Methodchain.deps.json
+D:\TRAININGC#\15Januari OOP\Task\Methodchain\bin\Debug\netcoreapp3.0\Methodchain.runtimeconfig.json
+D:\TRAININGC#\15Januari OOP\Task\Methodchain\bin\Debug\netcoreapp3.0\Methodchain.runtimeconfig.dev.json
+D:\TRAININGC#\15Januari OOP\Task\Methodchain\bin\Debug\netcoreapp3.0\Methodchain.dll
+D:\TRAININGC#\15Januari OOP\Task\Methodchain\bin\Debug\netcoreapp3.0\Methodchain.pdb
+D:\TRAININGC#\15Januari OOP\Task\Methodchain\obj\Debug\netcoreapp3.0\Methodchain.dll
+D:\TRAININGC#\15Januari OOP\Task\Methodchain\obj\Debug\netcoreapp3.0\Methodchain.pdb

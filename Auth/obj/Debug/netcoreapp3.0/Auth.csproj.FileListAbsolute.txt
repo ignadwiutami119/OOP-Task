@@ -1,0 +1,11 @@
+D:\TRAININGC#\15Januari OOP\Task\Auth\bin\Debug\netcoreapp3.0\Auth.exe
+D:\TRAININGC#\15Januari OOP\Task\Auth\bin\Debug\netcoreapp3.0\Auth.deps.json
+D:\TRAININGC#\15Januari OOP\Task\Auth\bin\Debug\netcoreapp3.0\Auth.runtimeconfig.json
+D:\TRAININGC#\15Januari OOP\Task\Auth\bin\Debug\netcoreapp3.0\Auth.runtimeconfig.dev.json
+D:\TRAININGC#\15Januari OOP\Task\Auth\bin\Debug\netcoreapp3.0\Auth.dll
+D:\TRAININGC#\15Januari OOP\Task\Auth\bin\Debug\netcoreapp3.0\Auth.pdb
+D:\TRAININGC#\15Januari OOP\Task\Auth\obj\Debug\netcoreapp3.0\Auth.csprojAssemblyReference.cache
+D:\TRAININGC#\15Januari OOP\Task\Auth\obj\Debug\netcoreapp3.0\Auth.AssemblyInfoInputs.cache
+D:\TRAININGC#\15Januari OOP\Task\Auth\obj\Debug\netcoreapp3.0\Auth.AssemblyInfo.cs
+D:\TRAININGC#\15Januari OOP\Task\Auth\obj\Debug\netcoreapp3.0\Auth.dll
+D:\TRAININGC#\15Januari OOP\Task\Auth\obj\Debug\netcoreapp3.0\Auth.pdb

@@ -16,7 +16,7 @@ namespace Caesar_Cipher {
 
         public static string Encipher (string input, int key) {
             string output = "";
-            if(key == 12345) {
+            if(key == 12) {
                 foreach (char ch in input)
                     output += cipher (ch, key);
             } else {
@@ -26,13 +26,7 @@ namespace Caesar_Cipher {
         }
 
         public static string Decipher (string output, int key) {
-            string hasil = "";
-            int cek = 12345;
-            if (key == cek) {
-                hasil = Encipher (output, 26 - key);
-            } else {
-                Console.WriteLine ("you cant read the word");
-            }
+            string hasil = Encipher (output, 26 - key);
             return hasil;
         }
 
@@ -42,7 +36,6 @@ namespace Caesar_Cipher {
             string UserString = Console.ReadLine ();
 
             Console.WriteLine ("\n");
-
             Console.Write ("Enter your Key \n");
             int key = Convert.ToInt32 (Console.ReadLine ());
             Console.WriteLine ("\n");
@@ -52,10 +45,8 @@ namespace Caesar_Cipher {
             Console.WriteLine (cipherText);
 
             Console.WriteLine ("Decrypted Data:");
-            string t = Decipher (cipherText, key);
-            Console.WriteLine (t);
+            Console.WriteLine (Decipher (cipherText, key));
             Console.Write ("\n");
-            Console.ReadKey ();
         }
     }
 }
