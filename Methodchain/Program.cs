@@ -19,7 +19,7 @@ namespace methodchain
             Console.WriteLine("jumlah item : {0}", cart.totalQuantity());
             Console.WriteLine("juamlah harga : {0}", cart.totalPrice());
             cart.showItem();
-            cart.checkout();
+            cart.checkout("D:/");
         }
     }
 }
