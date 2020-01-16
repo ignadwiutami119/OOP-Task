@@ -25,7 +25,7 @@ namespace Auth {
                 lastLog = DateTime.Now.ToString ();
                 info_log = true;
             } else {
-                Console.WriteLine ("Username and Password didn't match");
+                Console.WriteLine ("Login Failed");
             }
         }
 
@@ -39,7 +39,7 @@ namespace Auth {
         }
 
         public void logout() {
-            if(!guest()) {
+            if(info_us != "") {
             info_us.Remove (0);
             info_pass.Remove (0);
             Console.WriteLine ("Logout Success"); }
@@ -54,7 +54,12 @@ namespace Auth {
         }
 
         public void id () {
-            Console.WriteLine ("id account : " + id_user);
+            if(info_us == "") {
+                 Console.WriteLine("you are not login yet");
+            }
+            else {
+                Console.WriteLine ("id account : " + id_user);
+            }
         }
 
         public void check () {

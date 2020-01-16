@@ -85,8 +85,7 @@ namespace methodchain {
             obj.WriteLine ("jenis item : {0}", totalItems ());
             obj.WriteLine ("jumlaha harga : {0}", totalPrice ());
             obj.WriteLine ("jumlah item : {0}", totalQuantity ());
-
-            obj.Close ();
+            obj.Close();
         }
     }
 }
